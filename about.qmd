@@ -4,14 +4,14 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.png" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Dane Williams</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://linkedin.com/in/williamsdane" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/realdanewilliams" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -23,32 +23,52 @@ Write a compelling narrative about your background, education, and what drives y
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Bachelor of Science in Strategic Management**, Brigham Young University (2025-2027)
+- **Relevant Coursework**:
+  + Creating Digital Products with AI: Strategy & Prototyping
+  + Strategic Management Core
+  + Intro to Computer Programming (Python)
+  + Spreadsheets & Business Analysis
+  + Principles of Accounting
+  + Global Supply Chain Management
+
+- **Academic Achievements**:
+  + GPA 3.96 / 4.00
+  + ACT 35 / 36
+  + Brigham Young Scholarship, Academic Scholarship
+  + BYU Marriott School Dean’s List for Winter Semester 2025
+  + National Merit Scholar
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Web Developer / Account Manager - Vivo Technologies
+*Jun 2020 - May 2022, Nov 2024 - Current*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Automated routine processes using JavaScript, Zapier, and Make to boost efficiency
+- Designed website and improved web functionality
+- Communicated with clients to identify video conferencing solutions and build work orders
+- Worked with client data to process sales information in Salesforce, HubSpot, Shopify, and Monday
 
-#### Another Position - Company Name
-*Dates*
+#### Scheduling Coordinator - Fidium Fiber
+*Apr 2025 - Aug 2025*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Traveled door-to-door to find new customers for fiber internet services
+- Maintained relationships with customers to oversee customer satisfaction
+
+#### Lead Fitness Counselor - EoS Fitness
+*Jul 2022 - Oct 2022*
+
+- Met with prospective customers to sell appropriate gym memberships and personal training
+- Trained new employees in company sales processes
+
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Programming languages (Python, TypeScript, JavaScript, Java, SQL)
+- Product management tools (Figma, Monday, Salesforce, HubSpot)
+- Video/photo editing (Adobe Premiere Pro, Adobe Photoshop, Da Vinci Resolve)
+- Microsoft Office & Google Suite
 
 **Soft Skills**
 - Communication and presentation
