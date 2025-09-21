@@ -22,7 +22,7 @@ title: "Welcome to My Product Management Portfolio"
 ::: {.g-col-12 .g-col-md-6 .card}
 
 ### [Country Guesser](projects/project-1.qmd)
-A browser-based geography game where players guess countries based on their outlines. Built with Next.js, TypeScript, and Tailwind CSS. Deployed to Vercel.
+A browser-based geography game where players guess countries based on their outlines. Built with Next.js, TypeScript, and Tailwind CSS. Features interactive 3D globe visualization.
 
 :::
 
