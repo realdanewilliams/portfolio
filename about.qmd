@@ -19,7 +19,9 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Hey! I'm Dane. I like making cool stuff.
+
+I'm from Chandler, Arizona, and have been studying Strategic Management at Brigham Young University. I'm looking to work with companies/individuals who are ready to make something new and make a lot of money doing it.
 
 ### Education
 
@@ -61,7 +63,6 @@ Write a compelling narrative about your background, education, and what drives y
 - Met with prospective customers to sell appropriate gym memberships and personal training
 - Trained new employees in company sales processes
 
-
 ### Skills & Interests
 
 **Technical Skills**
@@ -76,8 +77,8 @@ Write a compelling narrative about your background, education, and what drives y
 - Strategic thinking and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+In my free time, I stay active by weightlifting, snowboarding, and playing tennis. I also waste a lot of time following politics and outlandish conspiracy theories.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm looking for internships and careers in tech ideally, but I'm just following the money at this point.

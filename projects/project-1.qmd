@@ -6,12 +6,7 @@ categories: [GitHub, Vercel, Claude Code]
 
 ## Overview
 
-This project involved using Claude Code to write the codeneeded to develop an app that ...
-
-The primary purpose of this app is to:
-
-- ....
-- ....
+A modern geography game where players identify countries from authentic outlines. Features real country shapes from mapsicon repository and an interactive 3D Earth globe powered by D3.js.
 
 ## Live Product Demo
 
@@ -27,7 +22,7 @@ The primary purpose of this app is to:
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/realdanewilliams/claude-first-app"
+     href="https://github.com/realdanewilliams/country-guesser"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
