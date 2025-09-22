@@ -245,3 +245,10 @@ img {
   margin: 0 auto 2rem;
   display: block;
 }
+
+/* Ensure profile images are perfect circles */
+.rounded-circle {
+  border-radius: 50% !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
