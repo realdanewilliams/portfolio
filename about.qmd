@@ -65,20 +65,21 @@ I'm from Chandler, Arizona, and have been studying Strategic Management at Brigh
 
 ### Skills & Interests
 
-**Technical Skills**
-- Programming languages (Python, TypeScript, JavaScript, Java, SQL)
-- Product management tools (Figma, Monday, Salesforce, HubSpot)
-- Video/photo editing (Adobe Premiere Pro, Adobe Photoshop, Da Vinci Resolve)
-- Microsoft Office & Google Suite
+- **Technical Skills**:
+  + Programming languages (Python, TypeScript, JavaScript, Java, SQL)
+  + AI automation (n8n, Zapier, Make)
+  + Product management tools (Figma, Monday, Salesforce, HubSpot)
+  + Video/photo editing (Adobe Premiere Pro, Adobe Photoshop, Da Vinci Resolve)
+  + Microsoft Office & Google Suite
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- **Soft Skills**:
+  + Communication and presentation
+  + Cross-functional collaboration
+  + Strategic thinking and problem-solving
 
-**Interests**
-In my free time, I stay active by weightlifting, snowboarding, and playing tennis. I also waste a lot of time following politics and outlandish conspiracy theories.
+- **Interests**:
+  + In my free time, I stay active by weightlifting, snowboarding, and playing tennis. I also waste a lot of time following politics and outlandish conspiracy theories.
 
 ### What's Next
 
-I'm looking for internships and careers in tech ideally, but I'm just following the money at this point.
+I'm looking for internships and careers in tech ideally, but I'm open to any opportunities. I do freelance AI automation work as well, so reach out if you need help automating any part of your business.

@@ -30,7 +30,7 @@ A modern geography game where players identify countries from authentic outlines
   </a>
 </div>
 
-<iframe src="https://https://global-country-guesser.vercel.app/"
+<iframe src="https://global-country-guesser.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
